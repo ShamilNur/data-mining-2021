@@ -1,2 +1,3 @@
 # KFU-DataMining
-ITIS
+
+ITIS Data Mining Course. 4rd semester
