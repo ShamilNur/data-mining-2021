@@ -1,12 +1,27 @@
-# KFU-DataMining
+<img src="https://user-images.githubusercontent.com/62756126/130323956-df04b1dd-c8e6-4930-9425-dfd2958d31ed.png" alt="drawing" width="200"/>
 
-ITIS Data Mining Course. 4rd semester
+KFU ITIS Data Mining Course, 4th semester
 
-## Roadmap
+---
 
-* [HW1](https://github.com/ShamilNur/KFU-DataMining/tree/main/01.VK%20ITIS%20Parsing) --- [Получение данных. Создание Data Pipeline. Airflow + Python.](https://docs.google.com/document/d/1fdLQF8wYNP7QsWmn_XMUUKtwHVecplRvjyRRro9yyqw/edit)
-* HW2 --- [Исследование PageRank. Парсинг сайтов.](https://docs.google.com/document/d/1GSiN4Y8aShI-0R4H5ZmKUm0axDPecKzsiA_JM0vvSEc/edit)
-* KR1 --- &nbsp;[Контрольная работа.](https://docs.google.com/document/d/1dSOaC6RyWE-XyyPx5-8bVPSbEKZ6wkcL149NJBTouiI/edit)
-* [HW3](https://github.com/ShamilNur/KFU-DataMining/tree/main/03.Investigation%20Moments) --- [Исследование работы моментов.](https://docs.google.com/document/d/1O5U-6k8LHjzqSRWDHJXxOMrfVcxzr2GJ64wuuFMDUS0/edit)
-* [HW4](https://github.com/ShamilNur/KFU-DataMining/tree/main/04.Investigation%20CBF) --- [Исследование Countable Bloom Filter.](https://docs.google.com/document/d/1Ia_54ARjB2nq6niGwgiIWfyUZibvVFmMxCdLXL5QV2Q/edit)
-* [HW5](https://github.com/ShamilNur/KFU-DataMining/tree/main/05.Frequent%20Itemsets) --- [Исследование Frequent Itemsets.](https://docs.google.com/document/d/1-ciTRnhQfLGXY3UzBPRDuNb6w8Bl3ZfNOLsadQELnNg/edit)
+### [Homework 1](https://github.com/ShamilNur/KFU-DataMining/tree/main/01.VK%20ITIS%20Parsing)
+
+- Получение данных
+- Создание Data Pipeline. Airflow + Python
+- https://docs.google.com/document/d/1fdLQF8wYNP7QsWmn_XMUUKtwHVecplRvjyRRro9yyqw/edit
+
+### [Homework 3](https://github.com/ShamilNur/KFU-DataMining/tree/main/03.Investigation%20Moments)
+
+- Исследование работы моментов
+- https://docs.google.com/document/d/1O5U-6k8LHjzqSRWDHJXxOMrfVcxzr2GJ64wuuFMDUS0/edit
+
+### [Homework 4](https://github.com/ShamilNur/KFU-DataMining/tree/main/04.Investigation%20CBF)
+
+- Исследование Countable Bloom Filter
+- https://docs.google.com/document/d/1Ia_54ARjB2nq6niGwgiIWfyUZibvVFmMxCdLXL5QV2Q/edit
+
+### [Homework 5](https://github.com/ShamilNur/KFU-DataMining/tree/main/05.Frequent%20Itemsets)
+
+- Исследование Frequent Itemsets
+- https://docs.google.com/document/d/1-ciTRnhQfLGXY3UzBPRDuNb6w8Bl3ZfNOLsadQELnNg/edit
+
