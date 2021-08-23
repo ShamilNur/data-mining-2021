@@ -1,4 +1,4 @@
-# data-mining-2021-KFU
+# data-mining-2021
 
 <a href="https://datalaboratory.one/"><img src="https://user-images.githubusercontent.com/62756126/130323956-df04b1dd-c8e6-4930-9425-dfd2958d31ed.png" alt="drawing" width="200"/></a>
 
